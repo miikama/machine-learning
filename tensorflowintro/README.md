@@ -1,3 +1,10 @@
+# Basic example of using tensorflow
+
+tensorflow is used to label hand-drawn numbers. Numbers and labels are from the MNIST database http://yann.lecun.com/exdb/mnist/
+
+data consists of 60 000 training images and 10 000 test images.
+
+The first example with tensorflow is able to correctly label the images with an accuracy of 97 %.
 
 
 ```python
